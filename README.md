@@ -5,3 +5,8 @@ DAN LIBRARY AOS INI GW SALIN TRUS BIKIN FILE BARU DAN PASTE DI FILE BARU ITU. BI
 
 
 JADI MOHON IJINNYA
+
+jangan lupa buat kalian yang mau make juga
+
+AOS animate on scroll
+https://github.com/michalsnik/aos
